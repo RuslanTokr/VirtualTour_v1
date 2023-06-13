@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" appversion="6.1.11" start="node1">
+  <panorama id="node1">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="124" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="124" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node1" comment="" longitude="" datetime="06.04.2023 14:20"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node2}" target="" id="Point01" skinid="ht_node" description="" pan="-100.27" tilt="-8.36"/>
+      <hotspot title="" url="{node6}" target="" id="Point02" skinid="ht_node" description="" pan="-349.55" tilt="-15.42"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="214" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="214" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node2" comment="" longitude="" datetime="06.04.2023 14:28"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node1}" target="" id="Point01" skinid="ht_node" description="" pan="-167.41" tilt="-4.18"/>
+      <hotspot title="" url="{node3}" target="" id="Point02" skinid="ht_node" description="" pan="-354.67" tilt="-3.95"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="275" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="275" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node3" comment="" longitude="" datetime="06.04.2023 14:44"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node2}" target="" id="Point01" skinid="ht_node" description="" pan="-125.72" tilt="-6.98"/>
+      <hotspot title="" url="{node4}" target="" id="Point02" skinid="ht_node" description="" pan="-237.62" tilt="-12.78"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="216" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="216" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node4" comment="" longitude="" datetime="06.04.2023 14:51"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node3}" target="" id="Point01" skinid="ht_node" description="" pan="-106.5" tilt="-12.9"/>
+      <hotspot title="" url="{node5}" target="" id="Point02" skinid="ht_node" description="" pan="-358.86" tilt="0.02"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="116" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="116" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node5" comment="" longitude="" datetime="06.04.2023 14:59"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node4}" target="" id="Point01" skinid="ht_node" description="" pan="-281.19" tilt="-2.68"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="110" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="110" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node6" comment="" longitude="" datetime="06.04.2023 15:16"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node7}" target="" id="Point01" skinid="ht_node" description="" pan="-283.9" tilt="-16.74"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="127" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="127" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node7" comment="" longitude="" datetime="06.04.2023 16:34"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node11}" target="" id="Point01" skinid="ht_node" description="" pan="-1.9" tilt="-14.79"/>
+      <hotspot title="" url="{node6}" target="" id="Point02" skinid="ht_node" description="" pan="-89.31" tilt="-12.57"/>
+      <hotspot title="" url="{node8}" target="" id="Point03" skinid="ht_node" description="" pan="-268.49" tilt="-10.52"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="197" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="197" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node8" comment="" longitude="" datetime="10.04.2023 16:50"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node7}" target="" id="Point01" skinid="ht_node" description="" pan="-357.29" tilt="-9.74"/>
+      <hotspot title="" url="{node9}" target="" id="Point02" skinid="ht_node" description="" pan="-178.16" tilt="-6.15"/>
+      <hotspot title="" url="{node17}" target="" id="Point03" skinid="ht_node" description="" pan="-133.08" tilt="-7.08"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="218" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="218" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node9" comment="" longitude="" datetime="14.04.2023 13:57"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node10}" target="" id="Point01" skinid="ht_node" description="" pan="-174.65" tilt="-3.64"/>
+      <hotspot title="" url="{node15}" target="" id="Point02" skinid="ht_node" description="" pan="-223.18" tilt="-7.14"/>
+      <hotspot title="" url="{node16}" target="" id="Point03" skinid="ht_node" description="" pan="-306.25" tilt="-6.45"/>
+      <hotspot title="" url="{node13}" target="" id="Point04" skinid="ht_node" description="" pan="-41.24" tilt="-9.34"/>
+      <hotspot title="" url="{node8}" target="" id="Point05" skinid="ht_node" description="" pan="-354.69" tilt="-3.53"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="131" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="131" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node10" comment="" longitude="" datetime="10.04.2023 16:29"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node9}" target="" id="Point01" skinid="ht_node" description="" pan="-87.27" tilt="-9.58"/>
+      <hotspot title="" url="{node14}" target="" id="Point02" skinid="ht_node" description="" pan="-146.49" tilt="-11.49"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="34" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="34" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node11" comment="" longitude="" datetime="06.04.2023 16:43"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node12}" target="" id="Point01" skinid="ht_node" description="" pan="-97.96" tilt="-12.27"/>
+      <hotspot title="" url="{node7}" target="" id="Point02" skinid="ht_node" description="" pan="-265.25" tilt="-8"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="162" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="162" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node12" comment="" longitude="" datetime="14.04.2023 14:01"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node11}" target="" id="Point01" skinid="ht_node" description="" pan="-150.18" tilt="0.26"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="217" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="217" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node13" comment="" longitude="" datetime="06.04.2023 16:06"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node9}" target="" id="Point01" skinid="ht_node" description="" pan="-242.9" tilt="-1.87"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="55" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="55" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node14" comment="" longitude="" datetime="06.04.2023 15:58"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node10}" target="" id="Point01" skinid="ht_node" description="" pan="-78.39" tilt="-7.88"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="45" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="45" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node15" comment="" longitude="" datetime="06.04.2023 15:27"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node9}" target="" id="Point01" skinid="ht_node" description="" pan="-241.72" tilt="-5.24"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="286" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="286" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node16" comment="" longitude="" datetime="06.04.2023 15:35"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node9}" target="" id="Point01" skinid="ht_node" description="" pan="-43.43" tilt="-2.69"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input overlap="1" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2560" levelingroll="0">
+      <level predecode="0" width="2560" preload="0" height="2560"/>
+      <level predecode="0" width="1280" preload="0" height="1280"/>
+      <level predecode="0" width="640" preload="0" height="640"/>
+      <level predecode="1" width="320" preload="1" height="320"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="328" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovstereographic="270" fov="120" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata title="" heading="328" source="" author="" customnodeid="" tags="Telegram Desktop" description="" info="" latitude="" copyright="" nodeid="node17" comment="" longitude="" datetime="06.04.2023 16:15"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" textalpha="1" backgroundalpha="1" wordwrap="1" width="180" borderalpha="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" borderradius="1" bordercolor="0x000000" height="20"/>
+      <polystyle backgroundalpha="0.25098" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot title="" url="{node8}" target="" id="Point01" skinid="ht_node" description="" pan="-90.91" tilt="0.44"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomin="0" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" enabled="1" zoomfov="20" blendtime="1" zoomout="0" zoomoutpause="1" zoomafteroutfov="20"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control hideabout="0" speedwheel="1" contextfullscreen="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" sensitivity="8" lockedmouse="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" heading="0" source="" author="" customnodeid="" tags="" description="" info="" latitude="" copyright="" nodeid="master" comment="" longitude="" datetime=""/>
+  </masternode>
+</tour>
