@@ -4824,7 +4824,7 @@
         <hotspot>
           <position>
             <pan>-0.56</pan>
-            <tilt>-7.13</tilt>
+            <tilt>-7.04</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5378,7 +5378,7 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-180.68</pan>
+            <pan>-180.91</pan>
             <tilt>-10.79</tilt>
             <fov>10</fov>
           </position>
@@ -7508,6 +7508,30 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-171.79</pan>
+            <tilt>-4.21</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node99}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -8641,6 +8665,60 @@
       <streetviewproject/>
       <sounds/>
       <id>node98</id>
+    </panorama>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>photo/319.jpg</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>61</pannorth>
+      </viewingparameter>
+      <userdata>
+        <capturedatetime>2023-05-17T16:58:00</capturedatetime>
+        <datetime>17.05.2023 16:58</datetime>
+        <tags>photo</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-99.51</pan>
+            <tilt>-22.61</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node80}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
+      <id>node99</id>
     </panorama>
   </tour>
   <panorama>
