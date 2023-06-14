@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18043" version="6.1.11">
+<pano2vrconfig version="6.1.11" rev="18043">
   <tour>
     <panorama>
       <input>
@@ -8736,39 +8736,6 @@
     <floorplans/>
     <hotspots/>
     <output>
-      <htmlcss>
-        <html>
-          <enabled>1</enabled>
-          <filename>output/index.html</filename>
-          <values>
-            <value id="css"/>
-            <value id="gginfo">false</value>
-            <value id="htmltitle">$(upt)</value>
-            <value id="jsxml">false</value>
-            <value id="parseanchor">false</value>
-          </values>
-        </html>
-        <facequality/>
-        <transition>
-          <zoomafterinfov>90</zoomafterinfov>
-          <zoomafteroutfov>20</zoomafteroutfov>
-          <transitiontime>0.8</transitiontime>
-          <zoomspeed>1</zoomspeed>
-        </transition>
-        <autorotate>
-          <useAnimation>0</useAnimation>
-          <enabled>0</enabled>
-        </autorotate>
-        <soundstransition/>
-        <flyintransition/>
-        <hotspottext/>
-        <hotspotstyle/>
-        <webvr/>
-        <tilesize>2560</tilesize>
-        <filename>output/pano.xml</filename>
-        <hideaboutbox>1</hideaboutbox>
-        <masssimulation>0</masssimulation>
-      </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
       <htmlcss>
         <html>
